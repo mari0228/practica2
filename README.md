@@ -1,19 +1,19 @@
-# Mi Página Web Completa
+# Explorando la Naturaleza
 
-Este es un proyecto básico que muestra cómo crear una página web utilizando **HTML**, **CSS** y **JavaScript**. El proyecto está diseñado para ser alojado en **GitHub Pages**.
+Este es un proyecto web que explora la belleza y diversidad de la naturaleza. Incluye secciones sobre ecosistemas, animales y la conservación del medio ambiente.
 
 ## Estructura del Proyecto
 
-- `index.html`: La página principal con el contenido estructurado.
+- `index.html`: La página principal con información estructurada sobre la naturaleza.
 - `styles.css`: Archivo de estilos CSS para darle diseño a la página.
 - `script.js`: Archivo JavaScript para añadir interactividad.
-- `README.md`: Archivo de documentación del proyecto.
+- `README.md`: Documentación del proyecto.
 
 ## Características
 
-- Diseño sencillo y atractivo.
-- Portafolio con un diseño de cuadrícula.
+- Información sobre ecosistemas y animales.
 - Botón que cambia el color de fondo de la página aleatoriamente.
+- Diseño moderno y sencillo inspirado en los colores de la naturaleza.
 
 ## Cómo utilizarlo
 
